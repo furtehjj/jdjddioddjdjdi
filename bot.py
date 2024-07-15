@@ -16,7 +16,7 @@ import secrets
 cokie  = secrets.token_hex(8)*2
 zzk=0
 
-tok= "7196332829:AAFJ_msuHPzfGXGGjiATE9Sg5dVHvxis49E" 
+tok= "6747653473:AAGRo6WMhuCA35SNFFvDfcRgVs6nsxQEQOw" 
 	
 print('\n')
 print('روح للبوت دز start/')
